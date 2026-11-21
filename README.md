@@ -9,7 +9,7 @@ I design and build backend systems and cloud-native applications, with a focus o
 - **Architecture & distributed systems** — service boundaries, scalability, resilience, consistency, and failure handling
 - **Backend engineering** — Java, Spring Boot, Spring Cloud, and Spring Batch
 - **Cloud-native engineering** — Kubernetes, containers, Docker, Podman, and Azure
-- **Messaging & integration** — event-driven systems, Kafka, and RabbitMQ
+- **Messaging & integration** — event-driven systems, asynchronous workflows, and RabbitMQ
 - **Data & persistence** — PostgreSQL, Redis, and TimescaleDB
 - **Developer experience** — practical tools, automation, and operational visibility
 - **Frontend development** — React, TypeScript, and Node.js
@@ -31,7 +31,7 @@ A few repositories that reflect areas I build and explore:
 
 **Backend:** Spring Boot · Spring Cloud · Spring Batch · Node.js
 
-**Distributed systems:** Kafka · RabbitMQ · Redis
+**Messaging & data infrastructure:** RabbitMQ · Redis
 
 **Cloud & infrastructure:** Kubernetes · Docker · Podman · Azure
 
