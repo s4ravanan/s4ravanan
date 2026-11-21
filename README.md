@@ -14,6 +14,27 @@ I design and build backend systems and cloud-native applications, with a focus o
 - **Developer experience** — practical tools, automation, and operational visibility
 - **Frontend development** — React, TypeScript, and Node.js
 
+## Open-source contributions
+
+I contribute fixes, tests, and improvements to established open-source projects. The following pull requests are associated with my GitHub account; their links provide the implementation details and review history.
+
+### Apache Gravitino
+- [Prevent privilege removal when a fileset drop fails](https://github.com/apache/gravitino/pull/12582) — authorization consistency and regression coverage
+- [Improve JDBC provider validation and connector error messages](https://github.com/apache/gravitino/pull/13509) — Spark, Flink, and Trino connector behavior
+- [Reduce missing Gravitino ID log severity in JDBC schema loading](https://github.com/apache/gravitino/pull/13508) — more appropriate diagnostic logging
+- [Report missing securable objects correctly](https://github.com/apache/gravitino/pull/13507) — distinguish missing securable objects from missing roles
+
+### Kestra
+- [Replace explicit `any` types in namespace composables](https://github.com/kestra-io/kestra/pull/19738) — improve TypeScript type safety
+- [Add icons for Kestra Assets plugin tasks](https://github.com/kestra-io/kestra/pull/19688) — improve plugin task presentation
+- [Add unit tests for PDF preview](https://github.com/kestra-io/kestra/pull/22861) — cover pagination, navigation boundaries, rendering behavior, and load failures
+
+### Other projects
+- [AKHQ: Apply light and dark themes consistently](https://github.com/tchiotludo/akhq/pull/3261) — theme state, UI components, and editor styling
+- [Apache Seata: Upgrade MySQL Connector/J to address CVE-2023-22102](https://github.com/apache/incubator-seata/pull/8228) — dependency and build configuration updates
+- [Apache SkyWalking: Make EnvUtilTest compatible with Windows and OpenJDK](https://github.com/apache/skywalking/pull/2570) — cross-platform test compatibility
+- [Baeldung Tutorials: Fix Autovalue compilation](https://github.com/eugenp/tutorials/pull/6801) — resolve compilation issues
+
 ## Selected projects
 
 A few repositories that reflect areas I build and explore:
