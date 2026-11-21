@@ -23,7 +23,7 @@ A few repositories that reflect areas I build and explore:
 | [Spring Batch Monitor](https://github.com/s4ravanan/spring-batch-monitor) | Monitoring Spring Batch executions, inspecting step details, and exposing operational job APIs |
 | [Pet Store](https://github.com/s4ravanan/pet-store) | A Java/Spring implementation exploring microservice boundaries, RabbitMQ messaging, persistence, and observability |
 | [MultiMonitorUtility](https://github.com/s4ravanan/MultiMonitorUtility) | A lightweight Windows desktop utility built with C#, .NET, and WPF |
-| [Awesome Distributed Systems](https://github.com/s4ravanan/awesome-distributed-systems) | A curated collection of distributed-systems reading and learning resources |
+
 
 ## Technology
 
